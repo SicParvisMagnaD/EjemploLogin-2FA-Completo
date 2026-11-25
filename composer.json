@@ -1,0 +1,10 @@
+{
+    "name": "utp/ejemplo-login-2fa",
+    "description": "Repositorio EjemploLogin actualizado con Autenticacion de Dos Factores (2FA), CSRF, POO y privilegios minimos",
+    "require": {
+        "php": ">=7.4",
+        "sonata-project/google-authenticator": "^2.3",
+        "robthree/twofactorauth": "^3.0",
+        "spomky-labs/otphp": "^11.5"
+    }
+}
